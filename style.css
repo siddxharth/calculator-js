@@ -8,6 +8,7 @@ body{
     padding: 0;
     margin: 0;
     background: linear-gradient(to right, #00bbee, #00cc5b);
+    height: 100vh;
 }
 
 .calculator-grid{
